@@ -1,0 +1,137 @@
+*{
+	padding: 0;
+	margin: 0;
+}
+
+/*Шапка*/
+.Выбор li{
+	display: inline;
+	color: #fff;
+	border: 1px solid #fff;
+	border-radius: 4px;
+	padding: 3px;
+	margin-left: 11px;
+}
+.Выбор a{
+	vertical-align: middle;
+	color: #fff;
+	text-decoration: none;
+	
+}
+.Выбор{
+	background-color: black;
+	padding: 20px;
+}
+.Выбор input{
+	position: relative;
+	right:-1460px;
+	width: 200px;
+	height: 19px;
+}
+.Выбор h1{
+	text-align: center;
+	color: #fff;
+	height: 5px;
+}
+.Выбор a:hover{
+	background-color: orange;
+	border-radius: 4px;
+}
+.Выбор li:hover{
+	background-color: orange;
+	border-radius: 4px;
+}
+.Выбор .exit{
+	position: relative;
+	right: -1320px;
+}
+.Выбор .log{
+	position: relative;
+	right: -1320px;
+}
+
+.Выбор .fun{
+	position: relative;
+	right: 220px;
+}
+.Выбор .Price{
+	position: relative;
+	right: 220px;
+}
+
+
+
+
+/*Низ*/
+body{
+	width:1915px ;
+	height: 900px;
+}
+footer{
+	position: relative;
+	bottom: -448.5px;
+}
+
+
+
+.Низ{
+	background-color: black;
+	padding: 20px;
+
+}
+.Низ li{
+	display: inline;
+	border: 1px solid #fff;
+	border-radius: 4px;
+	padding: 3px;
+
+}
+.Низ ul{
+	text-align: center;
+
+}
+.Низ a{
+	text-decoration: none;
+	color: white;
+}
+.Низ a:hover{
+	background-color: orange;
+	border-radius: 4px;
+}
+.Низ li:hover{
+	background-color: orange;
+	border-radius: 4px;
+}
+
+
+/*Боковая панель*/
+aside{
+	width: 170px;
+}
+.aside {
+	background-color: black;
+}
+.aside a{
+	color: white;
+	text-decoration: none;
+}
+.aside .a{
+	border: 1px solid #fff;
+	border-radius: 4px;
+	padding: 3px;
+	margin-top: 10px;
+}
+.top{
+	border: 1px solid #fff;
+	border-radius: 4px;
+	padding: 3px;
+}
+.aside a:hover{
+	background-color: orange;
+	border-radius: 4px;
+}
+
+.aside li:hover{
+	background-color: orange;
+	border-radius: 4px;
+}
